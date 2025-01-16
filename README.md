@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Will come back to edit later
+I'm Adam Hegner, I am a It Cyber major trying to get through college.
+Currently not working on anything at the moment but hopefully that will change soon.
