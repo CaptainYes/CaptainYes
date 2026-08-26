@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Adam Hegner, I'm a It Cyber major trying to get through college.
-Currently not working on anything at the moment but hopefully that will change soon.
+I'll be working on bash scripts and learning different Linux commands. 
